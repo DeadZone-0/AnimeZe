@@ -14,7 +14,7 @@
 
 ## Overview
 
-AnimeZe brings anime streaming and manga reading together in one clean, custom-built interface. It comes with built-in tracking, watch/read history, and offline downloads, so you can pick up right where you left off, on or offline.
+AnimeZe brings anime streaming and manga reading together in one clean, custom-built interface. It comes with built-in tracking, watch/read history, and offline downloads, so you can pick up right where you left off.
 
 ## Features
 
@@ -30,11 +30,11 @@ AnimeZe brings anime streaming and manga reading together in one clean, custom-b
 
 | Home | Anime Player | Manga Reader |
 |---|---|---|
-| *screenshot coming soon* | *screenshot coming soon* | *screenshot coming soon* |
+| ![Home](Screenshots/IMG_20260718_140212.jpg) | ![Anime Player](Screenshots/IMG_20260718_140236.jpg) | ![Manga Reader](Screenshots/IMG_20260718_140252.jpg) |
+| ![Home 2](Screenshots/IMG_20260718_140307.jpg) | ![Anime Player 2](Screenshots/IMG_20260718_140318.jpg) | ![Manga Reader 2](Screenshots/IMG_20260718_140335.jpg) |
+| ![Home 3](Screenshots/IMG_20260718_140348.jpg) | ![Anime Player 3](Screenshots/IMG_20260718_140635.jpg) | |
 
 </div>
-
-> Screenshots will be added here soon.
 
 ## Download
 
