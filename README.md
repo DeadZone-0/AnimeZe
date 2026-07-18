@@ -28,7 +28,7 @@ AnimeZe brings anime streaming and manga reading together in one clean, custom-b
 
 <div align="center">
 
-| Home | Anime Player | Manga Reader |
+| | | |
 |---|---|---|
 | ![Home](Screenshots/IMG_20260718_140212.jpg) | ![Anime Player](Screenshots/IMG_20260718_140236.jpg) | ![Manga Reader](Screenshots/IMG_20260718_140252.jpg) |
 | ![Home 2](Screenshots/IMG_20260718_140307.jpg) | ![Anime Player 2](Screenshots/IMG_20260718_140318.jpg) | ![Manga Reader 2](Screenshots/IMG_20260718_140335.jpg) |
