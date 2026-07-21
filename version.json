@@ -1,6 +1,6 @@
 {
-  "version_code": 2,
-  "version_name": "1.1.0",
-  "apk_url": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.1.0/app-release.apk",
-  "release_notes": "Anilist , MAL support , Mnahwa page bug fix (lookism known) Beta TV Support , Anime Player Improvement , Notifications  "
+  "version_code": 3,
+  "version_name": "1.2.1",
+  "apk_url": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.2.1/app-release.apk",
+  "release_notes": "More servers , Soft subs , customizable subs , more quality in streaming , buffering fix , some bug fixes"
 }
