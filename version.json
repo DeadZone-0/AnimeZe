@@ -1,6 +1,6 @@
 {
-  "version_code": 3,
-  "version_name": "1.2.1",
-  "apk_url": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.2.1/app-release.apk",
-  "release_notes": "More servers , Soft subs , customizable subs , more quality in streaming , buffering fix , some bug fixes"
+  "version_code": 4,
+  "version_name": "1.2.2",
+  "apk_url": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.2.2/app-release.apk",
+  "release_notes": "Hindi , Kannad , Tamil Dub , fixed bug while changing chapter , added Sort in anime , manga chap , ep  , prev  some bug fixes"
 }
