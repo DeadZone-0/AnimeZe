@@ -1,6 +1,6 @@
 {
-  "version_code": 6,
-  "version_name": "1.2.4",
-  "apk_url": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.2.4/app-release.apk",
-  "release_notes": "(fixed server latency ) Hindi , Kannad , Tamil Dub , fixed bug while changing chapter , added Sort in anime , manga chap , ep  , prev  some bug fixes"
+  "version_code": 7,
+  "version_name": "1.2.5",
+  "apk_url": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.2.5/app-release.apk",
+  "release_notes": "FIX SERVER ISSUE ( not totally fix due to heavy server load)"
 }
