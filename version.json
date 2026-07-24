@@ -1,6 +1,6 @@
 {
-  "version_code": 7,
-  "version_name": "1.2.5",
-  "apk_url": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.2.5/app-release.apk",
-  "release_notes": "FIX SERVER ISSUE ( not totally fix due to heavy server load)"
+  "version_code": 8,
+  "version_name": "1.2.6",
+  "apk_url": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.2.6/app-release.apk",
+  "release_notes": "App totally fixed server r migrated , Download fixed( now external download with mp4 output) download all button in manga , No extra anime shown "
 }
