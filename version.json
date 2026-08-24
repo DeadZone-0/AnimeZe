@@ -1,6 +1,22 @@
-{
-  "version_code": 20,
-  "version_name": "1.3.8",
-  "apk_url": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.3.8/app-release.apk",
-  "release_notes": "Manga image fix , Relation and seasons fixed and improved, bug fixes"
-}
+ {
+      "version_code": 21,
+      "version_name": "1.3.9",
+      "apk_url": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.3.9/app-release.apk",
+      "release_notes": "• Complete Android TV UI & Navigation Overhaul• Non-intrusive D-pad skip controls & soft subtitles integration• TV overscan safe-area padding & edge framing\n• Stability and proxy
+  stream improvements",
+      "desktop": {
+        "version_code": 1,
+        "version_name": "1.0.0",
+        "windows_url": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.0.0-desktop/AnimeZe-Setup-1.0.0.exe",
+        "linux_url": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.0.0-desktop/AnimeZe-1.0.0.AppImage",
+        "release_notes": "• Desktop release for Windows & Linux\n• MPV hardware-accelerated video playback engine\n• Multi-audio and soft subtitle
+  track switching\n• Synchronized watchlist, schedules, and library",
+        "github_url": "https://github.com/DeadZone-0/AnimeZe/releases"
+      },
+      "desktop_version_code": 1,
+      "desktop_version_name": "1.0.0",
+      "desktop_windows_url": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.0.0-desktop/AnimeZe-Setup-1.0.0.exe",
+      "desktop_linux_url": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.0.0-desktop/AnimeZe-1.0.0.AppImage",
+      "desktop_release_notes": "• Desktop release for Windows & Linux\n• MPV hardware-accelerated video playback engine\n• Multi-audio and soft
+  subtitle track switching\n• Synchronized watchlist, schedules, and library"
+    }
