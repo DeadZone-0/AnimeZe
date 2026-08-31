@@ -1,9 +1,8 @@
  {
-      "version_code": 22,
-      "version_name": "1.4.0",
-      "apk_url": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.4.0/app-release.apk",
-      "release_notes": " Complete Android TV UI & Navigation Overhaul, Non-intrusive D-pad skip controls & soft subtitles integration TV overscan safe-area padding & edge framing\n• Stability and proxy
-  stream improvements",
+      "version_code": 23,
+      "version_name": "1.4.1",
+      "apk_url": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.4.1/app-release.apk",
+      "release_notes": " Cast fix , Ui upgrades , friends list , profile added , profile decoration , Player upgraded  ",
       "desktop": {
         "version_code": 1,
         "version_name": "1.0.0",
