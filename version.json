@@ -1,21 +1,20 @@
- {
-      "version_code": 23,
-      "version_name": "1.4.1",
-      "apk_url": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.4.1/app-release.apk",
-      "release_notes": " Cast fix , Ui upgrades , friends list , profile added , profile decoration , Player upgraded ,  Downloads to mp4 now   ",
-      "desktop": {
-        "version_code": 1,
-        "version_name": "1.0.0",
-        "windows_url": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.0.0-desktop/AnimeZe-Setup-1.0.0.exe",
-        "linux_url": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.0.0-desktop/AnimeZe-1.0.0.AppImage",
-        "release_notes": " Desktop release for Windows & Linux MPV hardware-accelerated video playback engine Multi-audio and soft subtitle
-  track switching Synchronized watchlist, schedules, and library",
-        "github_url": "https://github.com/DeadZone-0/AnimeZe/releases"
-      },
-      "desktop_version_code": 1,
-      "desktop_version_name": "1.0.0",
-      "desktop_windows_url": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.0.0-desktop/AnimeZe-Setup-1.0.0.exe",
-      "desktop_linux_url": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.0.0-desktop/AnimeZe-1.0.0.AppImage",
-      "desktop_release_notes": " Desktop release for Windows & Linux\n• MPV hardware-accelerated video playback engine Multi-audio and soft
-  subtitle track switching\n• Synchronized watchlist, schedules, and library"
-    }
+{
+  "version_code": 24,
+  "version_name": "1.4.2",
+  "apk_url": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.4.2/app-universal-release.apk",
+  "apk_url_armeabi_v7a": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.4.2/app-armeabi-v7a-release.apk",
+  "release_notes": "• UI upgraded and performance improvements\n• Permanent ads remove toggle\n• Leaderboard & profile enhancements\n• General bug fixes and stability improvements",
+  "desktop": {
+    "version_code": 1,
+    "version_name": "1.0.0",
+    "windows_url": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.0.0-desktop/AnimeZe-Setup-1.0.0.exe",
+    "linux_url": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.0.0-desktop/AnimeZe-1.0.0.AppImage",
+    "release_notes": "• Desktop release for Windows & Linux\n• MPV hardware-accelerated video playback engine\n• Multi-audio and soft subtitle track switching\n• Synchronized watchlist, schedules, and library",
+    "github_url": "https://github.com/DeadZone-0/AnimeZe/releases"
+  },
+  "desktop_version_code": 1,
+  "desktop_version_name": "1.0.0",
+  "desktop_windows_url": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.0.0-desktop/AnimeZe-Setup-1.0.0.exe",
+  "desktop_linux_url": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.0.0-desktop/AnimeZe-1.0.0.AppImage",
+  "desktop_release_notes": "• Desktop release for Windows & Linux\n• MPV hardware-accelerated video playback engine\n• Multi-audio and soft subtitle track switching\n• Synchronized watchlist, schedules, and library"
+}
