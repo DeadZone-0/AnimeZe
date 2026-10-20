@@ -1,9 +1,9 @@
 {
-  "version_code": 27,
-  "version_name": "1.4.5",
-  "apk_url": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.4.5/app-universal-release.apk",
-  "apk_url_armeabi_v7a": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.4.5/app-armeabi-v7a-release.apk",
-  "release_notes": "• Real-time GPU Anime Shaders & Super-Resolution with live split comparison\n• RPG Anime XP & Level Progression System with Otaku rank titles\n• Animated WebM Profile & Leaderboard Banners with persistent cache\n• Watch Party background sync, quick reactions & auto-hide controls\n• Leaderboard revamp with Podium showcase & Weekly Rewards\n• Anime OP & OST soundtrack browser\n• Daily watch streaks & milestone badges\n• Performance optimizations & UI polish",
+  "version_code": 28,
+  "version_name": "1.4.6",
+  "apk_url": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.4.6/app-universal-release.apk",
+  "apk_url_armeabi_v7a": "https://github.com/DeadZone-0/AnimeZe/releases/download/v1.4.6/app-armeabi-v7a-release.apk",
+  "release_notes": "• Handled batch-release anime in Latest Episodes\n• Fixed duplicate key crash on Home screen\n• General stability improvements & optimizations",
   "desktop": {
     "version_code": 1,
     "version_name": "1.0.0",
